@@ -3,3 +3,5 @@
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me: no
+  
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MadId1ot&theme=graywhite&show_icons=true)
