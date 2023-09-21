@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MadId1ot
-- 👀 I’m interested in: coding the langauges JavaScript and python
-- 🌱 I’m currently learning: Javascript
+- 👀 I’m interested in: coding the langauges JavaScript, C#, and python
+- 🌱 I’m currently learning: C# in Unity
 - 💀 I'm dying because of: Stuff
 - 📫 How to reach me: No way
   
